@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Steroids",
+  "Author": "Bobberlington",
+  "Version": "1.0.0",
+  "Description": "Adds Schmorble's Steroids to the game.",
+  "UniqueID": "Bobberlington.Steroids",
+  "EntryDll": "Steroids.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}

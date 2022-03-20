@@ -1,0 +1,10 @@
+/Users/bradley/Projects/Steroids/Steroids/bin/Debug/net5.0/Steroids.deps.json
+/Users/bradley/Projects/Steroids/Steroids/bin/Debug/net5.0/Steroids.dll
+/Users/bradley/Projects/Steroids/Steroids/bin/Debug/net5.0/Steroids.pdb
+/Users/bradley/Projects/Steroids/Steroids/obj/Debug/net5.0/Steroids.csproj.AssemblyReference.cache
+/Users/bradley/Projects/Steroids/Steroids/obj/Debug/net5.0/Steroids.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradley/Projects/Steroids/Steroids/obj/Debug/net5.0/Steroids.AssemblyInfoInputs.cache
+/Users/bradley/Projects/Steroids/Steroids/obj/Debug/net5.0/Steroids.AssemblyInfo.cs
+/Users/bradley/Projects/Steroids/Steroids/obj/Debug/net5.0/Steroids.csproj.CoreCompileInputs.cache
+/Users/bradley/Projects/Steroids/Steroids/obj/Debug/net5.0/Steroids.dll
+/Users/bradley/Projects/Steroids/Steroids/obj/Debug/net5.0/Steroids.pdb
